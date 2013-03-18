@@ -17,7 +17,10 @@ module.exports = function(grunt) {
     copy: {
       dist: {
         files: {
-          '_site_git/' : '_site/**'
+            expand: true,
+            cwd: '_site',
+          src: ['**'],
+          dest: '_site_git/'
         }
       },
       css : {
