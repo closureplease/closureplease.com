@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md",
   "README.md", "less",
   "Rakefile", "changelog.md", "*.less", "sandbox",
   "node_modules", "Gruntfile.js", "bootstrap", "_site_git", "package.json",
-  "assets/styles-less/", "CNAME", "atom.xml", "rss.xml"]
+  "assets/styles-less/"]
 
 auto: false
 pygments: auto
