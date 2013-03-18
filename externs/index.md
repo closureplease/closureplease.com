@@ -297,7 +297,6 @@ externs:
 
 ---
 {% include JB/setup %}
-{% include ./externs.yml %}
 
 [Externs][] are files that help the [Closure Compiler][] interface with external libraries.
 
