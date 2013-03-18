@@ -31,7 +31,8 @@
     "grunt-contrib-cssmin": "~0.5.0",
     "grunt-contrib-connect": "~0.2.0",
     "grunt-contrib-imagemin": "~0.1.2",
-    "grunt-contrib-less": "~0.5.0"
+    "grunt-contrib-less": "~0.5.0",
+    "grunt-github-pages": "0.0.1"
   },
   "engines": {
     "node": ">=0.8.0"

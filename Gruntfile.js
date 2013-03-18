@@ -101,9 +101,18 @@ module.exports = function(grunt) {
           }
         }
       }
+    },
+    githubPages: {
+      target: {
+        options: {
+          // The default commit message for the gh-pages branch
+          commitMessage: 'push push'
+        },
+        // The folder where your gh-pages repo is
+        src: '_site',
+        dest: '_site_git'
+      }
     }
-
-
   });
 
   // less watch
@@ -114,6 +123,10 @@ module.exports = function(grunt) {
     'connect:livereload',
     'regarde'
   ]);
+
+  // create an alias for the githubPages task
+  grunt.registerTask('push', ['githubPages:target']);
+
 
   // Default task.
   grunt.registerTask('default', 'watch');
