@@ -301,8 +301,6 @@ externs:
 
 [Externs][] are files that help the [Closure Compiler][] interface with external libraries.
 
-THIS IS THE SHIT: {{berg}}
-
 <table class="table table-striped">
   <thead>
     <tr>
