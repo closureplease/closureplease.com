@@ -102,6 +102,12 @@ module.exports = function(grunt) {
         }
       }
     },
+    open: {
+      server: {
+        path: 'http://localhost:<%= connect.livereload.options.port %>'
+      }
+    },
+
     githubPages: {
       target: {
         options: {
@@ -113,14 +119,17 @@ module.exports = function(grunt) {
         dest: '_site_git'
       }
     }
+
   });
 
   // less watch
   grunt.registerTask('lessCopy', ['less:development', 'copy:css']);
 
   grunt.registerTask('live', [
+    'shell:jekyll',
     'livereload-start',
     'connect:livereload',
+    'open',
     'regarde'
   ]);
 
@@ -129,6 +138,6 @@ module.exports = function(grunt) {
 
 
   // Default task.
-  grunt.registerTask('default', 'watch');
+  grunt.registerTask('default', 'live');
 
 };

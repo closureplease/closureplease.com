@@ -28,13 +28,12 @@
     <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-
   </head>
 
   <body>
     <div class="navbar">
       <div class="navbar-inner">
-        <div class="container-narrow">
+        <div class="container">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
             {% assign pages_list = site.pages %}
@@ -45,8 +44,7 @@
       </div>
     </div>
 
-    <div class="container-narrow">
-
+    <div class="container">
       <div class="content">
         {{ content }}
       </div>
