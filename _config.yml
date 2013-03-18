@@ -15,10 +15,10 @@ pygments: auto
 # so be sure to set them if your theme uses them.
 #
 title : "Closure Library Please"
-tagline: Closure Library Community Maintained Resource
+tagline: "Closure Library Community Maintained Resource"
 author :
-  name : Thanasis Polychronakis
-  email : thanpolas@gmail.com
+  name : "Thanasis Polychronakis"
+  email : "thanpolas@gmail.com"
   github : thanpolas
   twitter : thanpolas
 #  feedburner : feedname
@@ -75,11 +75,11 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+  # archive_path: /archive.html
+  # categories_path : /categories.html
+  # # tags_path : /tags.html
+  # atom_path : /atom.xml
+  # rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -104,8 +104,8 @@ JB :
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.
   #
-  sharing :
-    provider : 'tweet'
+  # sharing :
+  #   provider : 'tweet'
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
