@@ -3,6 +3,7 @@ layout: page
 nav: externs
 title: "Closure Library Externs"
 group: navigation
+useurl: "externs/"
 
 externs:
   - libraryName: 'Angular JS'
