@@ -1,5 +1,7 @@
 
 http://closureplease.com/archive.html
+http://closureplease.com/atom.xml
 http://closureplease.com/index.html
+http://closureplease.com/rss.xml
 http://closureplease.com/sitemap.txt
 http://closureplease.com/tags.html
