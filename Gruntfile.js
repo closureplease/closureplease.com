@@ -46,6 +46,11 @@ module.exports = function(grunt) {
         }
       }
     },
+    clean: {
+      site: {
+        src: ['_site/**']
+      }
+    },
 
 
     watch: {
@@ -126,6 +131,7 @@ module.exports = function(grunt) {
   grunt.registerTask('lessCopy', ['less:development', 'copy:css']);
 
   grunt.registerTask('live', [
+    'clean:site',
     'shell:jekyll',
     'livereload-start',
     'connect:livereload',
@@ -134,7 +140,11 @@ module.exports = function(grunt) {
   ]);
 
   // create an alias for the githubPages task
-  grunt.registerTask('push', ['githubPages:target']);
+  grunt.registerTask('push', [
+    'clean:site',
+    'shell:jekyll',
+    'githubPages:target'
+  ]);
 
 
   // Default task.

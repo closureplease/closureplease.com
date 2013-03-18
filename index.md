@@ -7,7 +7,6 @@ tagline: All you need to know about Closure Library.
 
 Community maintained resources for the [Closure Library][closure library].
 
-
 ### Table Of Contents
 
 * [Externs][externs page] A collection of externs files.
