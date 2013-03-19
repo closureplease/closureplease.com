@@ -1,0 +1,42 @@
+.frontpage {
+
+  h1 {
+    margin: 0.6em 0 0em 0;
+  }
+
+  h1,
+  h2,
+  h3 { line-height: @baseLineHeight * 1.25; }
+
+  h1 { font-size: @baseFontSize * 4; }
+  h2 {
+    font-size: @baseFontSize * 1.5;
+    font-weight: 600;
+    margin-top: 40px;
+  }
+  h3 {
+    font-size: @baseFontSize * 1.25;
+    margin-top: 30px;
+  }
+  h2 + h3 {
+    margin-top: 10px;
+  }
+  h4 { font-size: @baseFontSize; }
+  h5 { font-size: @baseFontSize; }
+  h6 { font-size: @baseFontSize * 0.85; }
+
+  h1 small {
+    font-size: @baseFontSize * 1.25;
+    display: block;
+    line-height: @baseLineHeight * 3;
+  }
+  h2 small { font-size: @baseFontSize * 1.25; } // ~18px
+  h3 small { font-size: @baseFontSize; }
+  h4 small { font-size: @baseFontSize; }
+
+  // kill me
+  #getting_started_with_closure {
+    margin-top: 0;
+  }
+
+}

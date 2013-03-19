@@ -25,7 +25,7 @@ module.exports = function(grunt) {
       },
       css : {
         files: {
-          '_site/assets/themes/thanpolas/css/tpstyle.css': 'assets/themes/thanpolas/css/tpstyle.css'
+          '_site/assets/css/styles.css': 'assets/css/styles.css'
         }
       }
 
@@ -79,7 +79,7 @@ module.exports = function(grunt) {
      */
    regarde: {
       less: {
-        files: ['assets/themes/thanpolas/less/*.less'],
+        files: ['_styles/**/*.less'],
         tasks: ['lessCopy']
       },
       jekyllSources: {
@@ -99,7 +99,9 @@ module.exports = function(grunt) {
     connect: {
       livereload: {
         options: {
-          base: '_site/',
+          // limit the watch to just one file, no need for more,
+          // whole folders gets cleaned.
+          base: '_site/index.html',
           port: 9009,
           middleware: function(connect) {
             return [lrSnippet, folderMount(connect, '_site/')];
