@@ -4,6 +4,28 @@ A community resource for the [Google Closure Library][closure-library].
 
 http://closureplease.com
 
+## Install and Run
+
+```shell
+$ git clone git@github.com:closureplease/closureplease.com.git
+
+$ cd closureplease.com
+
+$ npm install
+```
+
+Launch a static server with livereload and auto-generation of jekyll / less:
+
+```shell
+grunt
+```
+
+## Publishing
+
+1. Commit and push to `master`.
+2. Run from shell: `grunt push` to commit & push to `gh-pages`.
+
+
 
 [closure-library]: https://developers.google.com/closure/library/ "Google Closure Library"
 [closure-tools]: https://developers.google.com/closure/ "Google Closure Tools"
