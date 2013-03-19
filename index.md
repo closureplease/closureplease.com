@@ -7,14 +7,14 @@ tagline: All you need to know about Closure Library.
 
 Community maintained resources for the [Closure Library][closure library].
 
-### Table Of Contents
+
 
 * [Externs][externs page] A collection of externs files.
 
 
 ### Contribute
 
-Feel free to [send a pull request][repo] to update these resources.
+Please [send a pull requests][repo] to update these resources.
 
 
 [closure externs]: https://code.google.com/p/closure-compiler/source/browse/#git%2Fcontrib%2Fexterns "Closure contrib externs"
