@@ -8378,6 +8378,19 @@ div.subnav-fixed {
 .frontpage #getting_started_with_closure {
   margin-top: 0;
 }
+.footer {
+  height: 200px;
+  padding: 0;
+  margin: 0;
+  padding-top: 40px;
+  background: #a2a2a2;
+  -webkit-box-shadow: inset 0 10px 10px -10px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: inset 0 10px 10px -10px rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0 10px 10px -10px rgba(0, 0, 0, 0.25);
+}
+.edit-page {
+  font-size: 13.6px;
+}
 blockquote p {
   font-size: 16px;
   font-weight: normal;
