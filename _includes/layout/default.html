@@ -15,6 +15,10 @@
         {{ content }}
       </div>
       <hr>
-      <footer>
-      </footer>
+      {% if page.update %}
+      <div class="edit-page"><a href="https://github.com/closureplease/closureplease.com/blob/master/{{page.update}}" target="_blank">Edit this page</a></div>
+      {% endif %}
+
     </div>
+    <footer class="footer">
+    </footer>

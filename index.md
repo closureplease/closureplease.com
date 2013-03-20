@@ -2,6 +2,7 @@
 layout: frontpage
 title: Closure Please
 tagline: Community maintained resources for the Closure Library.
+update: index.md
 ---
 {% include JB/setup %}
 
