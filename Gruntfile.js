@@ -48,7 +48,7 @@ module.exports = function(grunt) {
     },
     clean: {
       site: {
-        src: ['_site/**']
+        src: ['_site/']
       }
     },
 
