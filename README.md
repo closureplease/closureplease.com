@@ -18,6 +18,16 @@ $ git submodule init
 $ gut submodule update
 ```
 
+### One-time `gh-pages` branch setup
+
+```shell
+$ git clone git@github.com:closureplease/closureplease.com.git _site_git
+
+cd _site_git
+
+git checkout origin/gh-pages -b gh-pages
+```
+
 ## Use
 
 Launch a static server with livereload and auto-generation of jekyll / less:
@@ -28,7 +38,7 @@ grunt
 ## Publish
 
 1. Commit and push to `master`.
-2. Run from shell: `grunt push` to commit & push to `gh-pages`.
+2. Run from shell: `grunt deploy` to commit & push to `gh-pages`.
 
 [closure-library]: https://developers.google.com/closure/library/ "Google Closure Library"
 [closure-tools]: https://developers.google.com/closure/ "Google Closure Tools"

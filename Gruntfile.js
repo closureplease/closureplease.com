@@ -142,7 +142,7 @@ module.exports = function(grunt) {
   ]);
 
   // create an alias for the githubPages task
-  grunt.registerTask('push', [
+  grunt.registerTask('deploy', [
     'clean:site',
     'shell:jekyll',
     'githubPages:target'
