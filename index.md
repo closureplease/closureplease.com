@@ -95,6 +95,7 @@ update: index.md
 
 * [gss.sublime-package](https://github.com/rhysbrettbowen/gss.sublime-package#readme) Sublime Package for Closure Stylesheets.
 * [closure snippets](https://github.com/closureplease/sublime-google-closure-snippets#readme) Sublime Package with Closure snippets.
+* [Closure IDE for Eclipse](http://digi-area.com/ClosureIDE/) A commercial product that provides extensive GUI tools for Closure Compiler, Closure Templates and Closure Stylesheets.
 
 ## Other Resources
 
