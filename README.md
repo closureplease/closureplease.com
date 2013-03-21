@@ -21,7 +21,7 @@ $ gut submodule update
 ### One-time `gh-pages` branch setup
 
 ```shell
-$ git clone git@github.com:closureplease/closureplease.com.git _site_git
+git clone git@github.com:closureplease/closureplease.com.git _site_git
 
 cd _site_git
 
