@@ -97,6 +97,13 @@ update: index.md
 * [closure snippets](https://github.com/closureplease/sublime-google-closure-snippets#readme) Sublime Package with Closure snippets.
 * [Closure IDE for Eclipse](http://digi-area.com/ClosureIDE/) A commercial product that provides extensive GUI tools for Closure Compiler, Closure Templates and Closure Stylesheets.
 
+## Documentation Generators
+
+* [JvJsDoc](http://www.seehuhn.de/pages/jvjsdoc) JvJsDoc is a program to extract documentation from JavaScript source code and to present the collected information in a set of HTML pages. It is meant to be used together with the Google Closure Library and the Google Closure Compiler.
+
+* [plovr](http://plovr.com/) Has an undocumented feature to generate documentation from your code. [In this post](https://groups.google.com/forum/?fromgroups=#!topic/plovr/wJ-TwjzGv88) Bolin, the author, explains how to use it.
+
+
 ## Other Resources
 
 We are lurking on channel [#closure-tools](irc://irc.freenode.net##closure-tools) in Freenode, come join us!
