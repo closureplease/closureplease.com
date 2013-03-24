@@ -1,3 +1,4 @@
+/*jshint camelcase:false */
 var path = require('path');
 
 module.exports = function(grunt) {
@@ -55,8 +56,12 @@ module.exports = function(grunt) {
 
     watch: {
       less: {
-        files: ['assets/styles-less/*.less'],
+        files: ['_styles/**/*.less'],
         tasks: 'lessCopy'
+      },
+      staticSources: {
+        files: ['_site/**'],
+        tasks:  ['livereload']
       },
       jekyllSources: {
         files: [
@@ -138,7 +143,7 @@ module.exports = function(grunt) {
     'livereload-start',
     'connect:livereload',
     'open',
-    'regarde'
+    'watch'
   ]);
 
   // create an alias for the githubPages task
