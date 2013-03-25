@@ -42,6 +42,7 @@ update: index.md
   - [DepsWriter](https://developers.google.com/closure/library/docs/depswriter) Calculate dependencies of your JS files and generate `deps.js`.
 * [coffee2closure](https://github.com/Steida/coffee2closure#readme) Fix CoffeeScript compiled output for Google Closure Compiler.
 * [grunt-closure-compiler](https://github.com/gmarty/grunt-closure-compiler#readme) A Grunt task for Closure Compiler.
+* [grunt-closure-linter](https://github.com/wzr1337/grunt-closure-linter#readme) Lint and fix your files using Closure Linter. 
 * [The ClosureCompiler.js Grunt Task](https://github.com/dcodeIO/grunt-closurecompiler#readme) Yet simple, but powerful. Available through npm.
 * [grunt-gcc](https://github.com/Darsain/grunt-gcc#readme) Grunt task for minifying JavaScript files with Google Closure Compiler.
 * [grunt-soy-compile](https://github.com/mpneuried/grunt-soy-compile#readme) Compile soy template files including XLIFF language handling.
