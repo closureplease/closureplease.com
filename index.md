@@ -49,6 +49,7 @@ update: index.md
 
 ### Tools for Node.js
 
+* [nclosure][node closure] Server-side Google Closure with Node.js, [GH repo][node closure github].
 * [Superstartup Closure Compiler](https://github.com/closureplease/superstartup-closure-compiler#readme) A package that contains a compiled .jar version of the Google Closure Compiler and a special build that will strip out all goog.debug calls, and more specifically logging.
 * [npm-closure-tools](https://github.com/closureplease/npm-closure-tools#readme) An npm package that contains the closure tools with a small API that provides the path to the actual files.
 * [Calcdeps on Node][node calcdeps] A node.js port of google closure library calcdeps.py.
@@ -139,3 +140,5 @@ The only book published for the Closure Tools is the [Closure The Definitive Gui
 [closure guide]: http://www.amazon.com/gp/product/1449381871?ie=UTF8&tag=bolinfestcom-20&link_code=as3&camp=211189&creative=373489&creativeASIN=1449381871 "Closure The Definitive Guide"
 [node calcdeps]: http://www.bramstein.com/projects/calcdeps.js/ "Calcdeps in Node"
 [node loader]: https://github.com/bramstein/closureloader "Closure Loader for node"
+[node closure]: http://gatapia.github.com/nclosure/ "Server side closure"
+[node closure github]: https://github.com/gatapia/nclosure "Server side closure repo"
