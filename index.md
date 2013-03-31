@@ -42,7 +42,7 @@ update: index.md
   - [DepsWriter](https://developers.google.com/closure/library/docs/depswriter) Calculate dependencies of your JS files and generate `deps.js`.
 * [coffee2closure](https://github.com/Steida/coffee2closure#readme) Fix CoffeeScript compiled output for Google Closure Compiler.
 * [grunt-closure-compiler](https://github.com/gmarty/grunt-closure-compiler#readme) A Grunt task for Closure Compiler.
-* [grunt-closure-linter](https://github.com/wzr1337/grunt-closure-linter#readme) Lint and fix your files using Closure Linter. 
+* [grunt-closure-linter](https://github.com/wzr1337/grunt-closure-linter#readme) Lint and fix your files using Closure Linter.
 * [The ClosureCompiler.js Grunt Task](https://github.com/dcodeIO/grunt-closurecompiler#readme) Yet simple, but powerful. Available through npm.
 * [grunt-gcc](https://github.com/Darsain/grunt-gcc#readme) Grunt task for minifying JavaScript files with Google Closure Compiler.
 * [grunt-soy-compile](https://github.com/mpneuried/grunt-soy-compile#readme) Compile soy template files including XLIFF language handling.
@@ -51,7 +51,8 @@ update: index.md
 
 * [Superstartup Closure Compiler](https://github.com/closureplease/superstartup-closure-compiler#readme) A package that contains a compiled .jar version of the Google Closure Compiler and a special build that will strip out all goog.debug calls, and more specifically logging.
 * [npm-closure-tools](https://github.com/closureplease/npm-closure-tools#readme) An npm package that contains the closure tools with a small API that provides the path to the actual files.
-
+* [Calcdeps on Node][node calcdeps] A node.js port of google closure library calcdeps.py.
+* [Closure Node Loader][node loader] Load code using the Closure library dependency syntax in Node.js.
 
 ### Tools for Non Closure Projects
 
@@ -136,4 +137,5 @@ The only book published for the Closure Tools is the [Closure The Definitive Gui
 [LimeJS]: http://www.limejs.com/ "LimeJS is a HTML5 game framework"
 [rhysbrettbowen]: https://github.com/rhysbrettbowen "Rhys Brett-Bowen on Github"
 [closure guide]: http://www.amazon.com/gp/product/1449381871?ie=UTF8&tag=bolinfestcom-20&link_code=as3&camp=211189&creative=373489&creativeASIN=1449381871 "Closure The Definitive Guide"
-
+[node calcdeps]: http://www.bramstein.com/projects/calcdeps.js/ "Calcdeps in Node"
+[node loader]: https://github.com/bramstein/closureloader "Closure Loader for node"
