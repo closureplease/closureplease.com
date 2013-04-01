@@ -111,6 +111,8 @@ update: index.md
 
 We are lurking on channel [#closure-tools](irc://irc.freenode.net##closure-tools) in Freenode, come join us!
 
+* [googleclosure.com][google closure].
+* [Programming Closure][programmingclosure].
 * [Closure on IRC Resources](http://oinksoft.com/closure-tools/irc/).
 
 ### Books
@@ -142,3 +144,5 @@ The only book published for the Closure Tools is the [Closure The Definitive Gui
 [node loader]: https://github.com/bramstein/closureloader "Closure Loader for node"
 [node closure]: http://gatapia.github.com/nclosure/ "Server side closure"
 [node closure github]: https://github.com/gatapia/nclosure "Server side closure repo"
+[programmingclosure]: http://www.programmingclosure.com/ "Resources for Closure Developers"
+[google closure]: http://www.googleclosure.com/ "Guides, examples tips and trix"
