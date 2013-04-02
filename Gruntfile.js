@@ -33,10 +33,12 @@ module.exports = function(grunt) {
     },
     shell: {
         jekyll: {
-            command: 'rm -rf _site/*; jekyll',
+            command: 'jekyll',
             stdout: true
         }
+
     },
+
     less: {
       development: {
         options: {
