@@ -1,13 +1,12 @@
 ---
 layout: page
 nav: libraries
-title: "Closure libraries"
+title: "Closure Libraries"
 group: navigation
 useurl: "/libraries/"
+update: "libraries/index.md"
 ---
 {% include JB/setup %}
-
-
 
 ## Libraries
 

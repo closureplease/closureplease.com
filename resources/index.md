@@ -4,6 +4,7 @@ nav: resources
 title: "Closure Resources"
 group: navigation
 useurl: "/resources/"
+update: "resources/index.md"
 ---
 {% include JB/setup %}
 
