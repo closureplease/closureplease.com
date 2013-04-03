@@ -4,7 +4,7 @@ nav: tools
 title: "Closure Tools"
 group: navigation
 useurl: "/tools/"
-update "tools/index.md"
+update: "tools/index.md"
 ---
 {% include JB/setup %}
 

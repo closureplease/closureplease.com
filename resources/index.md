@@ -40,3 +40,14 @@ We also have a twitter handle [@closureplease](http://twitter.com/closureplease)
 The only book published for the Closure Tools is the [Closure The Definitive Guide][closure guide], written by [Michael Bolin](http://blog.bolinfest.com/). While it's the only book, it is one of the most thorough and detailed technical books out there.
 
 [![Closure The Definitive Guide](http://www.programmingclosure.com/cover_big.png)][closure guide]
+
+[closure externs]: https://code.google.com/p/closure-compiler/source/browse/#git%2Fcontrib%2Fexterns "Closure contrib externs"
+[externs extractor]: http://www.dotnetwise.com/Code/Externs/ "Closure Compiler Externs Extractor"
+[closure compiler]: https://developers.google.com/closure/compiler/ "Google Closure Library Compiler"
+[closure library]: https://developers.google.com/closure/library/ "Google Closure Library"
+[Externs]: https://developers.google.com/closure/compiler/docs/api-tutorial3#externs "Closure Compiler externs file"
+[externs page]: /externs/ "Externs collection"
+[repo]: https://github.com/closureplease/closureplease.com "This repository"
+[closure guide]: http://www.amazon.com/gp/product/1449381871?ie=UTF8&tag=bolinfestcom-20&link_code=as3&camp=211189&creative=373489&creativeASIN=1449381871 "Closure The Definitive Guide"
+[programmingclosure]: http://www.programmingclosure.com/ "Resources for Closure Developers"
+[google closure]: http://www.googleclosure.com/ "Guides, examples tips and trix"
