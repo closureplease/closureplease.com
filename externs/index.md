@@ -3,7 +3,7 @@ layout: page
 nav: externs
 title: "Closure Library Externs"
 group: navigation
-useurl: "externs/"
+useurl: "/externs/"
 update: "externs/externs.json"
 ---
 {% include JB/setup %}
