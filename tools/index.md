@@ -36,6 +36,7 @@ update: "tools/index.md"
 * [npm-closure-tools](https://github.com/closureplease/npm-closure-tools#readme) An npm package that contains the closure tools with a small API that provides the path to the actual files.
 * [Calcdeps on Node][node calcdeps] A node.js port of google closure library calcdeps.py.
 * [Closure Node Loader][node loader] Load code using the Closure library dependency syntax in Node.js.
+* [Soy](https://github.com/jamie-stackhouse/soy) Express View Engine for Closure Templates
 
 ## Editors, IDEs
 
