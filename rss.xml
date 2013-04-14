@@ -5,10 +5,18 @@
         <description>Closure Please - Thanasis Polychronakis</description>
         <link>http://closureplease.com</link>
         <link>http://closureplease.com</link>
-        <lastBuildDate>2013-04-04T21:47:39+03:00</lastBuildDate>
-        <pubDate>2013-04-04T21:47:39+03:00</pubDate>
+        <lastBuildDate>2013-04-15T02:54:22+03:00</lastBuildDate>
+        <pubDate>2013-04-15T02:54:22+03:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Welcome to Closure Please</title>
+                <description>&lt;p&gt;This is the first post to the blog&lt;/p&gt;</description>
+                <link>http://closureplease.com/blog/welcome-to-closure-please</link>
+                <guid>http://closureplease.com/blog/welcome-to-closure-please</guid>
+                <pubDate>2013-04-14T00:00:00+03:00</pubDate>
+        </item>
 
 
 </channel>

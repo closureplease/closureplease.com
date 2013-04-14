@@ -10,3 +10,5 @@ http://closureplease.com/rss.xml
 http://closureplease.com/sitemap.txt
 http://closureplease.com/tags.html
 http://closureplease.com/tools/index.html
+
+http://closureplease.com/blog/welcome-to-closure-please
