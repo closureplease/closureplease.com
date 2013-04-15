@@ -12,7 +12,7 @@ useurl: "/blog/"
   {% if post.categories contains 'blog' %}
 
 ### [{{ post.title }}]({{post.url}}) ###
-Date: {{ post.date }}
+Date: {{ post.date | date: "%d %B %Y"}}
 
 {{ post.content | strip_html | truncatewords: 100 }}
   {% endif %}
