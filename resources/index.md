@@ -19,6 +19,7 @@ update: "resources/index.md"
 * [**Michael Bolin**](http://blog.bolinfest.com/) [The Closure Compiler turns a Pattern into an Antipattern](http://blog.bolinfest.com/2009/11/closure-compiler-turns-pattern-into.html)
 * **Google** [Making Closure less verbose with goog.scope](https://docs.google.com/document/pub?id=1ETFAuh2kaXMVL-vafUYhaWlhl6b5D9TOvboVg7Zl68Y)
 * [**Erik Arvidsson**](http://erik.eae.net/) [Announcing Closure 2009](http://erik.eae.net/archives/2009/11/05/22.27.29/)
+* [**Hedger Wang**] [Coding Better Object-Oriented JavaScript with Closure Compiler](http://calendar.perfplanet.com/2010/coding-better-object-oriented-javascript-with-closure-compiler/)
 
 ### Talks, Slides
 
