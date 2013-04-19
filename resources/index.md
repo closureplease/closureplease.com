@@ -27,7 +27,9 @@ update: "resources/index.md"
 * [Writing HTML5 apps with Google App Engine, Google Closure Library and Clojure](http://www.slideshare.net/smartrevolution/writing-html5-apps-with-google-app-engine-google-closure-library-and-clojure) Stefan Richter - Google Developer Day 2010
 * [Google Closure Tools](http://www.youtube.com/watch?v=7sNo2bi0PPE) Simon Stewart - JSinSA 2011
 * [Javascript Programming in the Large](http://www.google.com/events/io/2011/sessions/javascript-programming-in-the-large-with-closure-tools.html) Michael Bolin - Google IO 2011
+* [BloatBusters: Eliminating memory leaks in Gmail](https://docs.google.com/presentation/d/1wUVmf78gG-ra5aOxvTfYdiLkdGaR9OhXRnOlIcEmu2s/pub?start=false&loop=false&delayms=3000#slide=id.g1d65bdf6_0_0) Loreena Lee & Robert Hundt - WebPerfDays 2012
 * [Finding Closure from jQuery](http://rhysbrettbowen.github.com/closure_from_jquery/) Rhys Brett-Bowen - HTML5 Dev conf 2012
+* [A novel, efficient approach to JavaScript loading](https://www.youtube.com/watch?v=mGENRKrdoGY) Malte Ubl & John Hjelmstad - JSConf EU 2102
 * [Google Closure Tools: Building Resume Instant Search](http://davidtulig.com/talks/google-closure-tools-resume-instant/slides/) David Tulig - Austin Javascript 2012
 * [Keeping Your Code in Check](http://www.ustream.tv/recorded/29325950) Michael Bolin - MLoc 2013
 * [How Google Does it](http://rhysbrettbowen.github.com/how_google_does_it) Rhys Brett-Bowen Philly ETE 2013
