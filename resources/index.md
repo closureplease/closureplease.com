@@ -34,6 +34,23 @@ update: "resources/index.md"
 * [Keeping Your Code in Check](http://www.ustream.tv/recorded/29325950) Michael Bolin - MLoc 2013
 * [How Google Does it](http://rhysbrettbowen.github.com/how_google_does_it) Rhys Brett-Bowen Philly ETE 2013
 
+## Languages
+
+### Coffeescript
+
+* Coffee2Closure ([Github](https://github.com/Steida/coffee2closure) | [npm](https://npmjs.org/package/coffee2closure)) : proceesses compiled coffeescript to closure friendly code.
+* Closure Mode for CoffeeScript ([blogpost](http://bolinfest.com/coffee/features.html) | [demo](http://bolinfest.com/coffee/)): coffeescript fork which takes a --google flag to compile to closure friendly code
+* hleumas coffee-script ([Github](https://github.com/hleumas/coffee-script/wiki)): coffeescript fork with support for closure
+* saucer ([Github](https://github.com/jbenet/saucer)): a boilerplate project using coffeescript
+
+### Typescript
+
+Typescript to Closure ([blogpost](http://blog.bolinfest.com/2013/01/generating-google-closure-javascript.html) | [demo](http://bolinfest.com/typescript/))
+
+### ClosureScript
+
+clojurescript ([Github wiki](https://github.com/clojure/clojurescript/wiki/Google-Closure))
+
 ## Other Resources
 
 We are lurking on channel [#closure-tools](irc://irc.freenode.net##closure-tools) in Freenode, come join us!
