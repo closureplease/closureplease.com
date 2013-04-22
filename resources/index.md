@@ -29,7 +29,8 @@ update: "resources/index.md"
 * [Javascript Programming in the Large](http://www.google.com/events/io/2011/sessions/javascript-programming-in-the-large-with-closure-tools.html) Michael Bolin - Google IO 2011
 * [Finding Closure from jQuery](http://rhysbrettbowen.github.com/closure_from_jquery/) Rhys Brett-Bowen - HTML5 Dev conf 2012
 * [Google Closure Tools: Building Resume Instant Search](http://davidtulig.com/talks/google-closure-tools-resume-instant/slides/) David Tulig - Austin Javascript 2012
-* [Keeping Your Code in Check](http://www.ustream.tv/recorded/29325950) Michael Bolin - MLoc 2013
+* [Keeping Your Code in Check](http://www.youtube.com/watch?v=PCL3dXQZ_Wk) Michael Bolin - MLoc 2013
+  - [Slides from the presentation](https://docs.google.com/presentation/d/1bO1OlVtMUHkXS7aApQsX1hbaQ6qCJ01lrjTv0nChIK0/edit)
 * [How Google Does it](http://rhysbrettbowen.github.com/how_google_does_it) Rhys Brett-Bowen Philly ETE 2013
 
 ## Other Resources
