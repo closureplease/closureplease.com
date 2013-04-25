@@ -38,7 +38,7 @@ We are lurking on channel [#closure-tools](irc://irc.freenode.net##closure-tools
 We also have a twitter handle [@closureplease](http://twitter.com/closureplease)
 
 * [googleclosure.com][google closure].
-* [closurecheatsheet.com](www.closurecheatsheet.com).
+* [closurecheatsheet.com](http://closurecheatsheet.com).
 * [Programming Closure][programmingclosure].
 * [Closure on IRC Resources](http://oinksoft.com/closure-tools/irc/).
 * [Closure Templates Examples](https://code.google.com/p/closure-templates/source/browse/trunk/examples/).
