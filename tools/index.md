@@ -28,6 +28,7 @@ update: "tools/index.md"
 * [The ClosureCompiler.js Grunt Task](https://github.com/dcodeIO/grunt-closurecompiler#readme) Yet simple, but powerful. Available through npm.
 * [grunt-gcc](https://github.com/Darsain/grunt-gcc#readme) Grunt task for minifying JavaScript files with Google Closure Compiler.
 * [grunt-soy-compile](https://github.com/mpneuried/grunt-soy-compile#readme) Compile soy template files including XLIFF language handling.
+* [grunt-este](https://github.com/Steida/grunt-este) Grunt tasks for Google Closure Tools with CoffeeScript support - builder, deps, compilation, templates, localization, unit tests
 
 ## Node.js
 
