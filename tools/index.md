@@ -32,6 +32,8 @@ update: "tools/index.md"
 
 ## Node.js
 
+
+* [official script loader by Nicholas Santos](https://code.google.com/p/closure-library/wiki/NodeJS) Closure Library on Node.js in 60 seconds.
 * [nclosure][node closure] Server-side Google Closure with Node.js, [GH repo][node closure github].
 * [Superstartup Closure Compiler](https://github.com/closureplease/superstartup-closure-compiler#readme) A package that contains a compiled .jar version of the Google Closure Compiler and a special build that will strip out all goog.debug calls, and more specifically logging.
 * [npm-closure-tools](https://github.com/closureplease/npm-closure-tools#readme) An npm package that contains the closure tools with a small API that provides the path to the actual files.
