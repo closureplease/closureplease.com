@@ -5,20 +5,20 @@
         <description>Closure Please - Thanasis Polychronakis</description>
         <link>http://closureplease.com</link>
         <link>http://closureplease.com</link>
-        <lastBuildDate>2013-06-22T11:42:40+03:00</lastBuildDate>
-        <pubDate>2013-06-22T11:42:40+03:00</pubDate>
+        <lastBuildDate>2013-12-12T15:25:54+02:00</lastBuildDate>
+        <pubDate>2013-12-12T15:25:54+02:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>Welcome to Closure Please</title>
-                <description>&lt;p&gt;When I was inerviewing at Catch.com I was told that they used Closure Tools. I had to admit I had only heard of them at the time and had only really looked at the compiler. The interviewer who was later to become my boss recommended I buy a book, not just because it would teach me the tool set but also because it would go in to the reasons behind some of the decisions in developing the tools and make me a better programmer. I bought the book for my kindle and started reading. It did have good insights and really helped me understand the nature of the beast I was about to devote no just my work time but personal time to as well. That book was Closure: The Definitive Guide&amp;#8221; by Michael Bolin.&lt;/p&gt;
+                <description>&lt;p&gt;When I was inerviewing at Catch.com I was told that they used Closure Tools. I had to admit I had only heard of them at the time and had only really looked at the compiler. The interviewer who was later to become my boss recommended I buy a book, not just because it would teach me the tool set but also because it would go in to the reasons behind some of the decisions in developing the tools and make me a better programmer. I bought the book for my kindle and started reading. It did have good insights and really helped me understand the nature of the beast I was about to devote no just my work time but personal time to as well. That book was Closure: The Definitive Guide” by Michael Bolin.&lt;/p&gt;
 
-&lt;p&gt;Without that book there are many of us with who the tools would still be a mystery. It was enough to get me started and the more I dove in to it, the more it made a lot of sense. However I&amp;#8217;m also a voracious reader of javascript blogs and tweets and there seemed to be a lot missing from Closure that other projects had. This was a community. The number of blog posts, books, tweets, meetups, talks and discussions around Closure are dwarfed by other open source projects like jQuery, Dojo and YUI. So I decided to do something about it, starting up a meetup, open sourcing things I had written on top of Closure, writing blog posts and speaking at conferences. It was what I saw as the least I could do for a project that deserves more that what it gets.&lt;/p&gt;
+&lt;p&gt;Without that book there are many of us with who the tools would still be a mystery. It was enough to get me started and the more I dove in to it, the more it made a lot of sense. However I’m also a voracious reader of javascript blogs and tweets and there seemed to be a lot missing from Closure that other projects had. This was a community. The number of blog posts, books, tweets, meetups, talks and discussions around Closure are dwarfed by other open source projects like jQuery, Dojo and YUI. So I decided to do something about it, starting up a meetup, open sourcing things I had written on top of Closure, writing blog posts and speaking at conferences. It was what I saw as the least I could do for a project that deserves more that what it gets.&lt;/p&gt;
 
-&lt;p&gt;Through all this I have found that I am not the only one who feels this way. The very existence of this site is proof that there is a community out there that is as devoted as any other and are prepared to give their time to help others. And who wouldn&amp;#8217;t? Just a quick look at some of the projects that have started to come out show that Closure can deliver things no other project can, the only unfortunate thing is that not everyone knows it.&lt;/p&gt;
+&lt;p&gt;Through all this I have found that I am not the only one who feels this way. The very existence of this site is proof that there is a community out there that is as devoted as any other and are prepared to give their time to help others. And who wouldn’t? Just a quick look at some of the projects that have started to come out show that Closure can deliver things no other project can, the only unfortunate thing is that not everyone knows it.&lt;/p&gt;
 
-&lt;p&gt;So tell a friend, tweet something, write a blog post. Let everyone know that you have found Closure and help welcome them too. The project is a great point for building on top of. We have great foundations and the resources on this site will show that we now also have great materials for making today&amp;#8217;s modern web applications.&lt;/p&gt;
+&lt;p&gt;So tell a friend, tweet something, write a blog post. Let everyone know that you have found Closure and help welcome them too. The project is a great point for building on top of. We have great foundations and the resources on this site will show that we now also have great materials for making today’s modern web applications.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Rhys Brett-Bowen&lt;/li&gt;
