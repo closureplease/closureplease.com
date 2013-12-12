@@ -32,7 +32,7 @@ module.exports = function(grunt) {
     },
     shell: {
       jekyll: {
-        command: 'jekyll',
+        command: 'jekyll build',
         stdout: true,
       }
     },
