@@ -8,6 +8,10 @@ update: "tools/index.md"
 ---
 {% include JB/setup %}
 
+## Online Tools
+
+* [Auto generate Externs file](http://www.dotnetwise.com/Code/Externs/)
+
 ## Build Tools/Examples
 
 * [plovr](http://plovr.com/) Plovr is a build tool that dynamically recompiles JavaScript and Closure Template code. It is designed to simplify Closure development, and to make it more enjoyable.
@@ -31,7 +35,6 @@ update: "tools/index.md"
 * [grunt-este](https://github.com/Steida/grunt-este) Grunt tasks for Google Closure Tools with CoffeeScript support - builder, deps, compilation, templates, localization, unit tests
 
 ## Node.js
-
 
 * [official script loader by Nicholas Santos](https://code.google.com/p/closure-library/wiki/NodeJS) Closure Library on Node.js in 60 seconds.
 * [nclosure][node closure] Server-side Google Closure with Node.js, [GH repo][node closure github].
