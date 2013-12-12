@@ -18,8 +18,8 @@ module.exports = function(grunt) {
     copy: {
       dist: {
         files: {
-            expand: true,
-            cwd: '_site',
+          expand: true,
+          cwd: '_site',
           src: ['**'],
           dest: '_site_git/'
         }
@@ -29,14 +29,12 @@ module.exports = function(grunt) {
           '_site/assets/css/styles.css': 'assets/css/styles.css'
         }
       }
-
     },
     shell: {
-        jekyll: {
-            command: 'jekyll',
-            stdout: true
-        }
-
+      jekyll: {
+        command: 'jekyll',
+        stdout: true,
+      }
     },
 
     less: {
@@ -71,7 +69,7 @@ module.exports = function(grunt) {
           '*.html', '*.yml', 'assets/js/**.js', '_posts/**',
           'projects/**', 'blog/**', 'about/**', '_includes/**',
           'atom.xml'
-          ],
+        ],
         tasks: 'shell:jekyll',
         options: {
           //forceWatchMethod: 'old',
@@ -84,7 +82,7 @@ module.exports = function(grunt) {
      * Live Reload
      *
      */
-   regarde: {
+    regarde: {
       less: {
         files: ['_styles/**/*.less'],
         tasks: ['lessCopy']
@@ -95,7 +93,7 @@ module.exports = function(grunt) {
           '*.html', '*.yml', 'assets/js/**.js', '_posts/**',
           'projects/**', 'blog/**', 'about/**', '_includes/**',
           'atom.xml', '**/*.md'
-          ],
+        ],
         tasks: ['shell:jekyll']
       },
       staticSources: {
