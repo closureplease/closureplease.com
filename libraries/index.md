@@ -10,6 +10,7 @@ update: "libraries/index.md"
 
 ## Libraries
 
+* [**Este Library**](https://github.com/steida/este-library) Well designed UI components, utils, MVC framework with TodoMVC demo, a much more. Written in CoffeeScript but easily usable in plain JavaScript.
 * [**Closure Widgets**](https://github.com/rhysbrettbowen/closure-widgets#readme) by [@rhysbrettbowen][] Reusable UI components for use with Closure-Library.
 * [**G-closure**](https://github.com/rhysbrettbowen/G-closure#readme) by [@rhysbrettbowen][] A way for jquery developers to use the closure library in a familiar way.
 * [**Loader**](https://github.com/rhysbrettbowen/Loader#readme) by [@rhysbrettbowen][] Dependency Injection IoC for Closure Library
