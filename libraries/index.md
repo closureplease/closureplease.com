@@ -19,7 +19,12 @@ update: "libraries/index.md"
 
 ### Este
 
-[Este][] is robust, modular and comfortable dev stack for web apps development with several unique features. It is written in Coffeescript using the Closure Library.
+[Este][] is robust, modular and comfortable dev stack for web apps development with several unique features. It is written in Coffeescript using the Closure Library. JavaScript is supported too.
+
+### Closure Dependency Injection Container
+
+[grunt-closure-dicontainer](https://github.com/steida/grunt-closure-dicontainer) is dependency injection container for
+Google Closure Library. Let's write SOLID clean code easily.
 
 ### LimeJS
 
