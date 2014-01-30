@@ -22,7 +22,7 @@ update: index.md
   - [Closure Templates](https://developers.google.com/closure/templates/)
   - [Closure Linter](https://developers.google.com/closure/utilities/)
   - [Closure Stylesheets](https://code.google.com/p/closure-stylesheets/)
-* [Official Demos](http://closure-library.googlecode.com/svn/trunk/closure/goog/demos/index.html) In addition to those found in the Library documentation.
+* [Official Demos](https://closure-library.googlecode.com/git/closure/goog/demos/index.html) In addition to those found in the Library documentation.
 
 ## About ClosurePlease!
 

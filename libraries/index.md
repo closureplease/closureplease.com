@@ -10,6 +10,7 @@ update: "libraries/index.md"
 
 ## Libraries
 
+* [**Este Library**](https://github.com/steida/este-library) Well designed UI components, utils, MVC framework with TodoMVC demo, a much more. Written in CoffeeScript but easily usable in plain JavaScript.
 * [**Closure Widgets**](https://github.com/rhysbrettbowen/closure-widgets#readme) by [@rhysbrettbowen][] Reusable UI components for use with Closure-Library.
 * [**G-closure**](https://github.com/rhysbrettbowen/G-closure#readme) by [@rhysbrettbowen][] A way for jquery developers to use the closure library in a familiar way.
 * [**Loader**](https://github.com/rhysbrettbowen/Loader#readme) by [@rhysbrettbowen][] Dependency Injection IoC for Closure Library
@@ -19,7 +20,12 @@ update: "libraries/index.md"
 
 ### Este
 
-[Este][] is robust, modular and comfortable dev stack for web apps development with several unique features. It is written in Coffeescript using the Closure Library.
+[Este][] is robust, modular and comfortable dev stack for web apps development with several unique features. It is written in Coffeescript using the Closure Library. JavaScript is supported too.
+
+### Closure Dependency Injection Container
+
+[grunt-closure-dicontainer](https://github.com/steida/grunt-closure-dicontainer) is dependency injection container for
+Google Closure Library. Let's write SOLID clean code easily.
 
 ### LimeJS
 
