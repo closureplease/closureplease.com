@@ -16,7 +16,6 @@ update: "tools/index.md"
 
 * [plovr](http://plovr.com/) Plovr is a build tool that dynamically recompiles JavaScript and Closure Template code. It is designed to simplify Closure development, and to make it more enjoyable.
 * [Closure Generator](https://github.com/closureplease/generator-closure#readme) Create a fully working Closure Library project in seconds! And you also get build tasks with livereload, 50+ BDD and TDD tests and a set of helper and boilerplate code to speed up your time to productive code.
-* [Makefile example](http://oinksoft.com/static/closure-tools/Makefile.example) A portable Makefile that builds a full project using all of the Closure Tools, from a real project.
 
 ### Grunt Plugins
 
