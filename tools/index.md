@@ -14,8 +14,18 @@ update: "tools/index.md"
 
 ## Build Tools/Examples
 
+* [Este.js](https://github.com/steida/este) Este.js is boilerplate and development stack for Google Closure.
 * [plovr](http://plovr.com/) Plovr is a build tool that dynamically recompiles JavaScript and Closure Template code. It is designed to simplify Closure development, and to make it more enjoyable.
 * [Closure Generator](https://github.com/closureplease/generator-closure#readme) Create a fully working Closure Library project in seconds! And you also get build tasks with livereload, 50+ BDD and TDD tests and a set of helper and boilerplate code to speed up your time to productive code.
+
+### Gulp Plugins
+
+[Gulp](gulpjs.com) is a task runner and build tool using streams and code-over-configuration for a simpler and more intuitive build for [Node.js](http://nodejs.org/). 
+
+* [gulp-closure-compiler](https://www.npmjs.org/package/gulp-closure-compiler/) Gulp plugin for Google Closure Compiler.
+* [gulp-closure-deps](https://www.npmjs.org/package/gulp-closure-deps/) A gulp.js port of Google Closure library depswriter.py.
+* [gulp-closure-dicontainer](https://www.npmjs.org/package/gulp-closure-dicontainer/) DI Container for Google Closure with automatic registration and resolving based on types.
+* [gulp-coffee2closure](https://www.npmjs.org/package/gulp-coffee2closure/) Gulp plugin fixing CoffeeScript compiled output for Google Closure Compiler.
 
 ### Grunt Plugins
 
