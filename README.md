@@ -15,7 +15,7 @@ $ npm install
 
 $ git submodule init
 
-$ gut submodule update
+$ git submodule update
 ```
 
 ### One-time `gh-pages` branch setup
