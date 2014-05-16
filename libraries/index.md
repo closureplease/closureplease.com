@@ -15,6 +15,7 @@ update: "libraries/index.md"
 * [**G-closure**](https://github.com/rhysbrettbowen/G-closure#readme) by [@rhysbrettbowen][] A way for jquery developers to use the closure library in a familiar way.
 * [**Loader**](https://github.com/rhysbrettbowen/Loader#readme) by [@rhysbrettbowen][] Dependency Injection IoC for Closure Library
 * [**Functional Closure**](https://github.com/rhysbrettbowen/functional-closure#readme) by [@rhysbrettbowen][] Helpers to use closure library in a point-free functional style.
+* [**ydn-db**](http://git.yathit.com/ydn-db/wiki/Home) Javascript database module for IndexedDB, WebDatabase (WebSQL) and WebStorage (localStorage) storage mechanisms supporting version migration, advanced query, and transaction.
 
 ## Frameworks
 
