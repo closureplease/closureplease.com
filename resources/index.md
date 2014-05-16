@@ -43,9 +43,10 @@ update: "resources/index.md"
 * hleumas coffee-script ([Github](https://github.com/hleumas/coffee-script/wiki)): coffeescript fork with support for closure
 * saucer ([Github](https://github.com/jbenet/saucer)): a boilerplate project using coffeescript
 
-### Typescript
+### TypeScript
 
-Typescript to Closure ([blogpost](http://blog.bolinfest.com/2013/01/generating-google-closure-javascript.html) | [demo](http://bolinfest.com/typescript/))
+* Typescript to Closure ([blogpost](http://blog.bolinfest.com/2013/01/generating-google-closure-javascript.html) | [demo](http://bolinfest.com/typescript/))
+* Closure Library declaration files for TypeScript ([Github](https://github.com/teppeis/closure-library.d.ts))
 
 ### ClosureScript
 
