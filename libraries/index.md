@@ -36,7 +36,14 @@ Google Closure Library. Let's write SOLID clean code easily.
 
 [PlastronJS][] is an MVC library which uses the Google Closure library for use with the Closure Compiler.
 
+### Relief
+
+[Relief][] is a framework built on top of Google's Closure tools that provides the infrastructure needed to build single-page AJAX-style applications
+  * [Relieved Blog (demo app)](https://relieved-blog.appspot.com/)
+  * [Relieved (official blog)](http://relief-framework.blogspot.com/)
+
 [plastronjs]: http://rhysbrettbowen.github.com/PlastronJS/ "PlastronJS MVC Framework"
 [este]: https://github.com/Steida/este#readme "Este is robust, modular and comfortable dev stack for web apps development with several unique features."
 [LimeJS]: http://www.limejs.com/ "LimeJS is a HTML5 game framework"
 [@rhysbrettbowen]: https://github.com/rhysbrettbowen "Rhys Brett-Bowen on Github"
+[Relief]: https://code.google.com/p/relief/ "Relief Framework"
