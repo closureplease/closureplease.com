@@ -32,7 +32,7 @@ update: "resources/index.md"
 * [A novel, efficient approach to JavaScript loading](https://www.youtube.com/watch?v=mGENRKrdoGY) Malte Ubl & John Hjelmstad - JSConf EU 2102
 * [Google Closure Tools: Building Resume Instant Search](http://davidtulig.com/talks/google-closure-tools-resume-instant/slides/) David Tulig - Austin Javascript 2012
 * [Keeping Your Code in Check][bolin MLOC 2013] Michael Bolin - MLOC 2013. [Slides from the presentation][bolin MLOC 2013 slides].
-* [How Google Does it](http://rhysbrettbowen.github.com/how_google_does_it) Rhys Brett-Bowen Philly ETE 2013
+* [How Google Does it](http://chariotsolutions.com/screencast/phillyete-2013-screencast-34-how-google-does-it-using-closure-tools-for-large-javascript-applications-rhys-brett-bowen/) Rhys Brett-Bowen Philly ETE 2013. [Slides from the presentation](http://rhysbrettbowen.github.com/how_google_does_it)
 
 ## Languages
 
