@@ -59,6 +59,7 @@ update: "tools/index.md"
 * [closure snippets](https://github.com/closureplease/sublime-google-closure-snippets#readme) Sublime Package with Closure snippets.
 * [Closure IDE for Eclipse](http://digi-area.com/ClosureIDE/) A commercial product that provides extensive GUI tools for Closure Compiler, Closure Templates and Closure Stylesheets.
 * [SoyTemplate.tmbundle](https://github.com/anvie/SoyTemplate) A TextMate Bundle & Sublime Text 2 Package for Google Closure Templates.
+* [Soy for Atom](https://atom.io/packages/language-soy) An Atom Editor package for Closure Templates.
 
 ## Documentation Generators
 
