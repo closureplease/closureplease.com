@@ -13,7 +13,7 @@ update: index.md
 
 ### Official Closure Resources
 
-* [Closure Library Project Home](https://code.google.com/p/closure-library/)
+* [Closure Library Project Home](https://github.com/google/closure-library/)
 * [API Documentation](http://docs.closure-library.googlecode.com/git/index.html)
 * [Annotating Javascript for the Compiler](https://developers.google.com/closure/compiler/docs/js-for-compiler?hl=en)
 * [Closure's official Wiki](https://code.google.com/p/closure-library/w/list)
@@ -22,14 +22,14 @@ update: index.md
   - [Closure Templates](https://developers.google.com/closure/templates/)
   - [Closure Linter](https://developers.google.com/closure/utilities/)
   - [Closure Stylesheets](https://code.google.com/p/closure-stylesheets/)
-* [Official Demos](https://closure-library.googlecode.com/git/closure/goog/demos/index.html) In addition to those found in the Library documentation.
+* [Official Demos](https://rawgit.com/google/closure-library/master/closure/goog/demos/index.html) In addition to those found in the Library documentation.
 
 ## About ClosurePlease!
 
 > Be a part of the [ClosurePlease](https://github.com/closureplease) effort to make Closure appeal to a wider audience, [send a pull request][repo].
 
 
-[closure externs]: https://code.google.com/p/closure-compiler/source/browse/#git%2Fcontrib%2Fexterns "Closure contrib externs"
+[closure externs]: https://github.com/google/closure-compiler/tree/master/externs "Closure contrib externs"
 [externs extractor]: http://www.dotnetwise.com/Code/Externs/ "Closure Compiler Externs Extractor"
 [closure compiler]: https://developers.google.com/closure/compiler/ "Google Closure Library Compiler"
 [closure library]: https://developers.google.com/closure/library/ "Google Closure Library"
