@@ -3,9 +3,14 @@
             "libraryName": "Angular JS",
             "libraryUrl": "http://angularjs.org/",
             "versions": [{
-                    "filename": "angular.js",
-                    "url": "https://raw.githubusercontent.com/google/closure-compiler/master/contrib/externs/angular.js",
-                    "libraryVer": "1.0.5"
+                    "filename": "angular-1.3.js",
+                    "url": "https://raw.githubusercontent.com/google/closure-compiler/master/contrib/externs/angular-1.3.js",
+                    "libraryVer": "1.3"
+                },
+                {
+                    "filename": "angular-1.2.js",
+                    "url": "https://raw.githubusercontent.com/google/closure-compiler/master/contrib/externs/angular-1.2.js",
+                    "libraryVer": "1.2"
                 }
             ]
         }, {
