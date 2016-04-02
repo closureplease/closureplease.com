@@ -14,15 +14,15 @@ update: index.md
 ### Official Closure Resources
 
 * [Closure Library Project Home](https://github.com/google/closure-library/)
-* [API Documentation](http://docs.closure-library.googlecode.com/git/index.html)
+* [API Documentation](http://google.github.io/closure-library/api/)
 * [Annotating Javascript for the Compiler](https://developers.google.com/closure/compiler/docs/js-for-compiler?hl=en)
-* [Closure's official Wiki](https://code.google.com/p/closure-library/w/list)
+* [Closure's official Wiki](https://github.com/google/closure-library/wiki)
 * [Closure Tools Homepage](https://developers.google.com/closure/)
   - [Closure Compiler](https://developers.google.com/closure/compiler/)
   - [Closure Templates](https://developers.google.com/closure/templates/)
   - [Closure Linter](https://developers.google.com/closure/utilities/)
   - [Closure Stylesheets](https://code.google.com/p/closure-stylesheets/)
-* [Official Demos](https://rawgit.com/google/closure-library/master/closure/goog/demos/index.html) In addition to those found in the Library documentation.
+* [Official Demos](http://google.github.io/closure-library/source/closure/goog/demos/) In addition to those found in the Library documentation.
 
 ## About ClosurePlease!
 
