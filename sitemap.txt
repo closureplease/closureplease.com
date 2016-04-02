@@ -1,0 +1,14 @@
+
+http://closureplease.com/archive
+http://closureplease.com/atom.xml
+http://closureplease.com/blog/
+http://closureplease.com/resources/
+http://closureplease.com/tools/
+http://closureplease.com/libraries/
+http://closureplease.com/externs/
+http://closureplease.com/
+http://closureplease.com/rss.xml
+http://closureplease.com/sitemap.txt
+http://closureplease.com/tags
+
+http://closureplease.com/blog/welcome-to-closure-please
