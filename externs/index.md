@@ -4,10 +4,10 @@ nav: externs
 title: "Closure Library Externs"
 group: navigation
 useurl: "/externs/"
-update: "externs/externs.json"
+update: "/externs/externs.json"
 ---
 {% include JB/setup %}
-{% jsonball data from file externs.json %}
+{% jsonball data from file externs/externs.json %}
 
 [Externs][] are files that help the [Closure Compiler][] interface with external libraries.
 

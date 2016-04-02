@@ -8,8 +8,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md",
   "node_modules", "Gruntfile.js", "bootstrap", "_site_git", "package.json",
   "assets/styles-less/", "_site"]
 
-auto: false
-pygments: auto
+pygments: "highlighter"
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
